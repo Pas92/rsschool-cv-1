@@ -1,4 +1,4 @@
-![MyPhoto](https://github.com/PereiraSeb/rsschool-cv/blob/gh-pages/Photo.png "My Photo")
+![MyPhoto](photo.png "My Photo")
 
 # Dunin Anatoly
 
