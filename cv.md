@@ -1,4 +1,4 @@
-![MyPhoto](photo.png "My Photo")
+![MyPhoto](/photo.png "My Photo")
 
 # Dunin Anatoly
 
