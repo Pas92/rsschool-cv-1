@@ -1,5 +1,5 @@
 My CV
-![MyPhoto](/Photo.png "My Photo")
+![MyPhoto](https://github.com/PereiraSeb/rsschool-cv/blob/gh-pages/Photo.png "My Photo")
 
 # Dunin Anatoly
 
