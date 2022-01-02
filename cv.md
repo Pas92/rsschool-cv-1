@@ -1,5 +1,5 @@
 My CV
-![MyPhoto](/Photo.jpg "My Photo")
+![MyPhoto](/Photo.png "My Photo")
 
 # Dunin Anatoly
 
